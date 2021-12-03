@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b38607db.chunk.css",
+    "main.js": "/static/js/main.3125190f.chunk.js",
+    "main.js.map": "/static/js/main.3125190f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.47de7953.js",
+    "runtime-main.js.map": "/static/js/runtime-main.47de7953.js.map",
+    "static/js/2.0217635e.chunk.js": "/static/js/2.0217635e.chunk.js",
+    "static/js/2.0217635e.chunk.js.map": "/static/js/2.0217635e.chunk.js.map",
+    "static/js/3.48ca501a.chunk.js": "/static/js/3.48ca501a.chunk.js",
+    "static/js/3.48ca501a.chunk.js.map": "/static/js/3.48ca501a.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.b38607db.chunk.css.map": "/static/css/main.b38607db.chunk.css.map",
+    "static/js/2.0217635e.chunk.js.LICENSE.txt": "/static/js/2.0217635e.chunk.js.LICENSE.txt",
+    "static/media/audio1.9c171dcb.mp3": "/static/media/audio1.9c171dcb.mp3",
+    "static/media/audio10.0523421e.mp3": "/static/media/audio10.0523421e.mp3",
+    "static/media/audio2.29d0e256.mp3": "/static/media/audio2.29d0e256.mp3",
+    "static/media/audio3.df2d2bb5.mp3": "/static/media/audio3.df2d2bb5.mp3",
+    "static/media/audio4.ec8e5248.mp3": "/static/media/audio4.ec8e5248.mp3",
+    "static/media/audio5.52aef552.mp3": "/static/media/audio5.52aef552.mp3",
+    "static/media/audio6.1f20d0ad.mp3": "/static/media/audio6.1f20d0ad.mp3",
+    "static/media/audio7.4544177e.mp3": "/static/media/audio7.4544177e.mp3",
+    "static/media/audio8.e7b627c5.mp3": "/static/media/audio8.e7b627c5.mp3",
+    "static/media/audio9.76b7d6c7.mp3": "/static/media/audio9.76b7d6c7.mp3",
+    "static/media/image1.32a7684c.jpg": "/static/media/image1.32a7684c.jpg",
+    "static/media/image3.229366fa.jpg": "/static/media/image3.229366fa.jpg",
+    "static/media/image4.bd4a256f.jpg": "/static/media/image4.bd4a256f.jpg",
+    "static/media/image5.9f71709f.jpg": "/static/media/image5.9f71709f.jpg",
+    "static/media/image6.8e3e2f59.jpg": "/static/media/image6.8e3e2f59.jpg",
+    "static/media/image7.b119b636.jpg": "/static/media/image7.b119b636.jpg",
+    "static/media/image9.7985cd3a.jpg": "/static/media/image9.7985cd3a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.47de7953.js",
+    "static/js/2.0217635e.chunk.js",
+    "static/css/main.b38607db.chunk.css",
+    "static/js/main.3125190f.chunk.js"
+  ]
+}
