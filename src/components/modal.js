@@ -14,7 +14,12 @@ const CustomModal = (props) => {
 
   return (
     <div className={parentClass}>
-      <div className={buttonClass} onClick={() => {setDialogSTatus(true);buttonFunc()}}>{buttonName}</div>
+      <div
+        className={buttonClass}
+        onClick={() => {setDialogSTatus(true);buttonFunc()}}
+      >
+        {buttonName}
+      </div>
 
       <Dialog open={dialogStatus} fullWidth={true} maxWidth="lg">
         <DialogTitle style={{fontSize: "35px"}}>

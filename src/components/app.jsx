@@ -1,18 +1,13 @@
 import React, {useEffect, useState} from 'react';
+import {
+  DialogContent,
+  DialogContentText,
+} from "@mui/material";
 import '../assets/app.scss'
 import _ from "lodash";
 import QUESTIONS from "../assets/questions";
-import {
-  Button,
-  Dialog,
-  DialogActions,
-  DialogContent,
-  DialogContentText,
-  DialogTitle,
-  FormControl, FormControlLabel, Radio,
-  RadioGroup
-} from "@mui/material";
 import CustomModal from "./modal";
+import '../assets/colorClasses.scss';
 
 const App = () => {
   // _.shuffle([1, 2, 3, 4]);
@@ -36,7 +31,7 @@ const App = () => {
         return (
           <CustomModal
             parentClass="question"
-            buttonClass={`questionCard ${elem.type === "image"?`image ${elem.answered === true?"imageAnswered":""}`:elem.type === "audio"?`audio ${elem.answered === true?"audioAnswered":""}`:`other ${elem.answered === true?"otherAnswered":""}`}`}
+            buttonClass={`questionCard ${elem.type === "image"?`image ${elem.answered === true?"imageAnswered":""}`:elem.type === "audio"?`audio ${elem.answered === true?"audioAnswered":""}`:`other ${elem.answered === true?"otherAnswered":""}`} ${elem.className} ${elem.answered === true?elem.filledClassName:""}`}
             buttonName={index + 1}
 
             title={elem.question}
@@ -57,7 +52,7 @@ const App = () => {
                       ? <img className="image" src={elem.image} />
                       : ""
                 }
-                <CustomModal parentClass="text" buttonClass="text" buttonName="Պատասխան" title="Պատասխան" buttonFunc={() => {setQuestions(questions.map(questElem => {if(questElem == elem){questElem.answered = true} return questElem}))}} content={(
+                <CustomModal parentClass="text" buttonClass="text" buttonName="ответ" title="ответ" buttonFunc={() => {setQuestions(questions.map(questElem => {if(questElem == elem){questElem.answered = true} return questElem}))}} content={(
                   <DialogContent>
                     <DialogContentText style={{fontSize: "30px"}}>{elem.answer}</DialogContentText>
                   </DialogContent>
