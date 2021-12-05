@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/school-quiz/static/css/main.b38607db.chunk.css",
+    "main.js": "/school-quiz/static/js/main.e090795f.chunk.js",
+    "main.js.map": "/school-quiz/static/js/main.e090795f.chunk.js.map",
+    "runtime-main.js": "/school-quiz/static/js/runtime-main.9feeff7b.js",
+    "runtime-main.js.map": "/school-quiz/static/js/runtime-main.9feeff7b.js.map",
+    "static/js/2.56a47c21.chunk.js": "/school-quiz/static/js/2.56a47c21.chunk.js",
+    "static/js/2.56a47c21.chunk.js.map": "/school-quiz/static/js/2.56a47c21.chunk.js.map",
+    "static/js/3.6633a63c.chunk.js": "/school-quiz/static/js/3.6633a63c.chunk.js",
+    "static/js/3.6633a63c.chunk.js.map": "/school-quiz/static/js/3.6633a63c.chunk.js.map",
+    "index.html": "/school-quiz/index.html",
+    "static/css/main.b38607db.chunk.css.map": "/school-quiz/static/css/main.b38607db.chunk.css.map",
+    "static/js/2.56a47c21.chunk.js.LICENSE.txt": "/school-quiz/static/js/2.56a47c21.chunk.js.LICENSE.txt",
+    "static/media/audio1.9c171dcb.mp3": "/school-quiz/static/media/audio1.9c171dcb.mp3",
+    "static/media/audio10.0523421e.mp3": "/school-quiz/static/media/audio10.0523421e.mp3",
+    "static/media/audio2.29d0e256.mp3": "/school-quiz/static/media/audio2.29d0e256.mp3",
+    "static/media/audio3.df2d2bb5.mp3": "/school-quiz/static/media/audio3.df2d2bb5.mp3",
+    "static/media/audio4.ec8e5248.mp3": "/school-quiz/static/media/audio4.ec8e5248.mp3",
+    "static/media/audio5.52aef552.mp3": "/school-quiz/static/media/audio5.52aef552.mp3",
+    "static/media/audio6.1f20d0ad.mp3": "/school-quiz/static/media/audio6.1f20d0ad.mp3",
+    "static/media/audio7.4544177e.mp3": "/school-quiz/static/media/audio7.4544177e.mp3",
+    "static/media/audio8.e7b627c5.mp3": "/school-quiz/static/media/audio8.e7b627c5.mp3",
+    "static/media/audio9.76b7d6c7.mp3": "/school-quiz/static/media/audio9.76b7d6c7.mp3",
+    "static/media/image1.32a7684c.jpg": "/school-quiz/static/media/image1.32a7684c.jpg",
+    "static/media/image3.229366fa.jpg": "/school-quiz/static/media/image3.229366fa.jpg",
+    "static/media/image4.bd4a256f.jpg": "/school-quiz/static/media/image4.bd4a256f.jpg",
+    "static/media/image5.9f71709f.jpg": "/school-quiz/static/media/image5.9f71709f.jpg",
+    "static/media/image6.8e3e2f59.jpg": "/school-quiz/static/media/image6.8e3e2f59.jpg",
+    "static/media/image7.b119b636.jpg": "/school-quiz/static/media/image7.b119b636.jpg",
+    "static/media/image9.7985cd3a.jpg": "/school-quiz/static/media/image9.7985cd3a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9feeff7b.js",
+    "static/js/2.56a47c21.chunk.js",
+    "static/css/main.b38607db.chunk.css",
+    "static/js/main.e090795f.chunk.js"
+  ]
+}
